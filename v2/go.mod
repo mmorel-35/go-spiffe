@@ -6,7 +6,7 @@ require (
 	github.com/Microsoft/go-winio v0.6.0
 	github.com/stretchr/testify v1.8.1
 	github.com/zeebo/errs v1.3.0
-	google.golang.org/grpc v1.52.0
+	google.golang.org/grpc v1.52.3
 	google.golang.org/grpc/examples v0.0.0-20230103192020-f2fbb0e07ebf
 	google.golang.org/protobuf v1.28.1
 	gopkg.in/square/go-jose.v2 v2.6.0
