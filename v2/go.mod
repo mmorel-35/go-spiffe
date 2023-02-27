@@ -4,7 +4,7 @@ go 1.17
 
 require (
 	github.com/Microsoft/go-winio v0.6.0
-	github.com/stretchr/testify v1.8.1
+	github.com/stretchr/testify v1.8.2
 	github.com/zeebo/errs v1.3.0
 	google.golang.org/grpc v1.52.0
 	google.golang.org/grpc/examples v0.0.0-20230103192020-f2fbb0e07ebf
