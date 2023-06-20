@@ -3,7 +3,7 @@ module github.com/spiffe/go-spiffe/v2
 go 1.17
 
 require (
-	github.com/Microsoft/go-winio v0.6.0
+	github.com/Microsoft/go-winio v0.6.1
 	github.com/go-jose/go-jose/v3 v3.0.0
 	github.com/stretchr/testify v1.8.4
 	github.com/zeebo/errs v1.3.0
